@@ -5,3 +5,7 @@
 ### Map models to database tables using Prisma
 
 `npx prisma migrate dev --name init`
+
+### Open UI viewer
+
+`npx prisma studio`
